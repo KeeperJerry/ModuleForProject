@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "moduleforproject",
+        "name": "moduleforproject",
+        "description": "Module for you project",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://keeperjerry.ru",
+        "updateUrl": "",
+        "authorList": ["KeeperJerry"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
